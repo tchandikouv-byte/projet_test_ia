@@ -4,9 +4,9 @@ from sklearn.ensemble import RandomForestClassifier
 import joblib
 
 X_TRAIN = [
-    'santé maladie médicament docteur hopital',
-    'maladie fièvre médicament santé',
-    'je suis malade je vais à l hopital',
+    'santé maladie médicament docteur hôpital hopital',
+    'maladie fièvre médicament santé  hôpital',
+    'je suis malade je vais à l hôpital  hopital',
     'ecole université formation cours',
     'ecole formation élève professeur',
     'je vais à l université pour étudier',
